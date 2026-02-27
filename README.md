@@ -1,6 +1,9 @@
 # UiPath Excel Filter Bot (Invoke Code, C#)
 
-Compares two monthly Excel datasets in UiPath (`dtAlt`, `dtNeu`) and produces a change table (`dtChanges`) using a single `Invoke Code` activity in C#.
+EN: Compares two monthly Excel datasets in UiPath (`dtAlt`, `dtNeu`) and produces a change table (`dtChanges`) using a single `Invoke Code` activity in C#.
+DE: Vergleicht zwei monatliche Excel-Datensaetze in UiPath (`dtAlt`, `dtNeu`) und erzeugt eine Aenderungstabelle (`dtChanges`) mit einer einzigen `Invoke Code`-Activity in C#.
+
+German version: `README.de.md`
 
 ## Repository Content
 
